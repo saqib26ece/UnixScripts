@@ -1,4 +1,5 @@
-#s!/bin/bash
+#!/bin/bash
+date date
 dt =`date`
 echo "current date is : $dt"
 rm email.txt
