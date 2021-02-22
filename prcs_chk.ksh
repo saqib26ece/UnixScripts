@@ -1,5 +1,7 @@
 #!/bin/bash
 date date
+Ganga 
+Yamuna
 dt =`date`
 echo "current date is : $dt"
 rm email.txt
