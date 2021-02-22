@@ -1,7 +1,4 @@
 #!/bin/bash
-date date
-Ganga 
-Yamuna
 dt =`date`
 echo "current date is : $dt"
 rm email.txt
@@ -14,6 +11,6 @@ then
      echo "process $prcs is in progress" >> email.txt
 else
         echo "process $prcs is not in progress" >> email.txt
-fi
+
 done
 
